@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useRef } from 'react';
 // import useSmoothScroll from '../components/useSmoothScroll';
 import '../components/css/AboutPage.css';
 
 export default function AboutPage() {
-  
+  // const myRef = useRef(null);
+  // useSmoothScroll(myRef); 
   return (
     <div className="about-container">
       <section className="education">
