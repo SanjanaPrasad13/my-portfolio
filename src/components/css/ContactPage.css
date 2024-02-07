@@ -1,24 +1,24 @@
 .contact-container {
     text-align: center; /* Centers the text */
-    padding: 3.5em 4em; /* Adds padding around the content */
-    margin-right: 11em;
+    padding: 5.6vh 6.4vh; /* Adds padding around the content */
+    margin-right: 17.6vh;
   }
   
   .contact-container h2 {
-    margin-bottom: 0.5em; /* Adds space below the heading */
-    font-size: 2em; /* Size of the heading */
+    margin-bottom: 0.8vh; /* Adds space below the heading */
+    font-size: 3.2vh; /* Size of the heading */
   }
   
   .contact-container p {
-    margin-bottom: 2em; /* Adds space below the paragraph */
+    margin-bottom: 3.2vh; /* Adds space below the paragraph */
     color: #555; /* Color for the paragraph */
-    font-size: 1.2em; /* Size of the paragraph text */
+    font-size: 1.92vh; /* Size of the paragraph text */
   }
   
   .contact-icons {
     display: flex;
     justify-content: center; /* Centers the flex container */
-    gap: 40px; /* Spacing between icons */
+    gap: 6.84vh; /* Spacing between icons */
   }
   
   .contact-icons a {
@@ -28,7 +28,7 @@
   }
   
   .contact-icons svg {
-    width: 50px; /* Example size, adjust as needed */
+    width: 8.55vh; /* Example size, adjust as needed */
     height: auto;
     transition: transform 0.3s ease; /* Smooth scaling transition */
   }

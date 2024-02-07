@@ -23,9 +23,8 @@
   }
   
   .navbar nav ul li a:hover {
-    color: black; 
+    color: rgb(148, 184, 156); 
     font-weight:bolder; 
-    font-size: 1.25em;
   }
 
   
