@@ -18,7 +18,7 @@
 
 .hero-container {
   text-align: left; /* Aligns the text to the left */
-  width: 100%; /* Take full width to center the content */
+  width: 80%; /* Take full width to center the content */
   padding: 7em; /* Add padding to position content from the top */
 }
 

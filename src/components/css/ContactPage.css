@@ -1,7 +1,8 @@
 .contact-container {
     text-align: center; /* Centers the text */
-    padding: 5.6vh 6.4vh; /* Adds padding around the content */
+    /* padding: 5.6vh 6.4vh; Adds padding around the content */
     margin-right: 17.6vh;
+    padding-left: 10vh;
   }
   
   .contact-container h2 {
