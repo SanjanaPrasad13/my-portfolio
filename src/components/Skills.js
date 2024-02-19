@@ -13,23 +13,23 @@ const Skills = () => {
     {
       title: 'Languages',
       skills: [
-        'Python', 'R', 'Java', 'C', 'JavaScript', 'TypeScript','Bash', 'Solidity', 'C++','MySQL',
-        'Oracle PL/SQL', 'HTML', 'CSS', 'JSON', 'YAML',
+        'Python/R', 'Java', 'C', 'JavaScript', 'TypeScript','Bash', 'Solidity', 'C++',
+        'Oracle PL/SQL', 'HTML/CSS/JS', 'JSON', 'YAML',
       ],
       icon: <CodingIcon />, 
     },
     {
         title: 'Tools',
         skills: [
-            'PySpark', 'AWS', 'Azure Databricks', 'BigData', 'Tableau', 'Pytorch', 'Tensorflow', 'Pandas', 'Numpy', 'NLTK', 'OpenCV',
-            'Angular', 'React', 'Node.js', 'Kubernetes', 'Docker', 'Hadoop', 'Flutter', 'Figma', 'RESTful API', 'Microservices',
+            'PySpark', 'AWS', 'Azure', 'BigData', 'Tableau', 
+            'Angular', 'React', 'Node.js',  'Hadoop', 'Flutter', 'Figma', 'RESTful API', 'Microservices',
         ],
         icon: <ToolsIcon />, 
     },
     {
         title: 'Core Competencies',
         skills: [
-            'Debugging',  'SDLC', 'Agile Working', 'Object Oriented Design',
+            'Statistical Modelling', 'Data Visualization', 'A/B Testing','Debugging',  'SDLC', 'Agile Working', 'Object Oriented Design',
              'Quality Assurance', 'Full Stack' ,
         ],
         icon: <CoresIcon />, 
