@@ -15,7 +15,8 @@ export default function ProjectsPage() {
         {
             title: 'Telecom Customer Churn Data Product',
             description: 'It predicts whether the customer is willing to stay in the telecom service or not. Developed using mL Model', 
-            link: 'https://github.com/SanjanaPrasad13/chatbotv1',
+            // link: 'https://github.com/SanjanaPrasad13/chatbotv1',
+            link: ' #',
         },
         {
             title: 'Automatic Resume Generator',
